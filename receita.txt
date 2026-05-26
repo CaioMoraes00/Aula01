@@ -13,7 +13,7 @@ nome do repo: Aula01
 5. após a conclusão do desenvolvimento, adicionar os arquivos ao repo:
 git add . 
 
-REPETIR OS PASSOS 6 E 7 SEMPRE QUE HOVER ALTERAÇÃO NOS ARQUIVOS DE 
+REPETIR OS PASSOS 5m, 6 E 7 SEMPRE QUE HOVER ALTERAÇÃO NOS ARQUIVOS DE 
 
 6. comitar ao reporsitorio com uma mensagem explicativa: git commit -m "mensagem entre parênteses"
 
